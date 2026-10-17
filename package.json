@@ -25,7 +25,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@atproto/api": "^0.23.0",
+    "@atproto/api": "^0.26.0",
     "@atproto/oauth-client-browser": "^0.5.9",
     "actor-typeahead": "^0.1.2"
   },
