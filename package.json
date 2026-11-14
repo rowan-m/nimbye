@@ -28,7 +28,7 @@
     "core-js@3.50.0": true
   },
   "dependencies": {
-    "@atproto/api": "^0.30.3",
+    "@atproto/api": "^0.31.0",
     "@atproto/oauth-client-browser": "^0.5.14",
     "actor-typeahead": "^0.1.2"
   },
